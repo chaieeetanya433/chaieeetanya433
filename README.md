@@ -61,7 +61,7 @@ I'm Chaitanya Agarkar, currently pursuing a Bachelor's in Computer Science from 
   <img width="12" />
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" height="40" alt="kubernetes logo"  />
   <img width="12" />
-  <img src="(https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="40" alt="Java logo"  />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="40" alt="Java logo"  />
 </div>
 
 ###
