@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/129309578?v=4"  style={{borderRadius:"50%"}}/>
+  <img height="150" src="https://avatars.githubusercontent.com/u/129309578?v=4"/>
 </div>
 
 ###
